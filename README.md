@@ -37,7 +37,7 @@ Apart from coding, I have a keen interest in:
 - Figma web design 
 - Drawing
 
-⚡ Fun fact:
+##⚡ Fun fact:
   '''Programmer's favorite snack: "Chips," but not the edible kind!'''
 
 ## Let's Connect
