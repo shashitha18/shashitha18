@@ -1,7 +1,7 @@
 # About Me 😄
 
 Hello there! 👋 I'm Shashitha Pitchuka, a passionate Full Stack Development from Gujarat, India. Welcome to my GitHub profile!
-- 😄 Pronouns:  Sha Shi Tha
+Pronouns 😄:  Sha Shi Tha
 
 ## Background 👀 
 
@@ -13,33 +13,33 @@ I have a background in Python and Web Development and a strong interest in Full 
 - 🌱 I'm currently learning Full Stack Development.
 - 👯 I'm looking to collaborate on Open Source Projects.
 - 📫 You can reach me via
-- Gmail:- shashitha95@gmail.com
-- Instagram:- shashitha_19
+- Gmail 📧:- shashitha95@gmail.com
+- Instagram 📱:- shashitha_19 
 - LinkedIn:- shashitha-pitchuka
 
-## Skills
+## Skills 🤹🏼‍♀️
 
 Here are some of the skills and technologies I'm proficient in:
 
 - Programming Languages: Python , Java  , C , C++
 - Technologies & Tools: VSCode , 
 
-## Projects
+## Projects 📽️
 
 Here are some noteworthy projects I've worked on:
 
 Feel free to explore my repositories for more projects and contributions!
 
-## Interests
+## Interests 🧩
 
 Apart from coding, I have a keen interest in:
 
 - Figma web design 
-- Drawing
+- Drawing 🖊️
 
-##⚡ Fun fact:
+**😁Fun fact:😁** 
   '''Programmer's favorite snack: "Chips," but not the edible kind!'''
 
-## Let's Connect
+## Let's Connect 🔗 
 
 Looking forward to connecting with you!
