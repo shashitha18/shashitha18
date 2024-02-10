@@ -1,45 +1,63 @@
-# About Me 😄
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shashitha18/My_Git_Profile" />
 
-Hello there! 👋 I'm Shashitha Pitchuka, a passionate Full Stack Development from Gujarat, India. Welcome to my GitHub profile!
-Pronouns 😄:  Sha Shi Tha
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shashitha+Pitchuka!;" />
+</h1>
 
-## Background 👀 
+<h3 align="center">A passionate Full Stack Developer from India IN</h3>
 
-I have a background in Python and Web Development and a strong interest in Full Stack Development. I enjoy Web Page clonning, Website Building, Frontend , Backend , and I'm constantly learning and exploring new things in MERN/MEAN, Web Development.
+<br/>
 
-## What I Do 📝
+<div align="center">
+ 
+ 🔭 I’m currently working on Full Stack Developer
+ 
+ 🌱 I’m currently learning MEAN/MERN, Python
 
-- 💻 I work as a Student at Parul University.
-- 🌱 I'm currently learning Full Stack Development.
-- 👯 I'm looking to collaborate on Open Source Projects.
-- 📫 You can reach me via
-- Gmail 📧:- shashitha95@gmail.com
-- Instagram 📱:- shashitha_19 
-- LinkedIn:- shashitha-pitchuka
+💬 Ask me about anything [here](https://github.com/shashitha18/My_Git_Profile/issues)
 
-## Skills 🤹🏼‍♀️
+⚡ Fun fact 
 
-Here are some of the skills and technologies I'm proficient in:
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:shashitha95@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/shashitha-pitchuka" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/shashitha18" target="_blank">
+     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-- Programming Languages: Python , Java  , C , C++
-- Technologies & Tools: VSCode , 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,express,mongodb,c,java" /><br>
+</div>
 
-## Projects 📽️
+<br/>
+<hr/>
 
-Here are some noteworthy projects I've worked on:
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-Feel free to explore my repositories for more projects and contributions!
+<hr/>
 
-## Interests 🧩
+<h2 align="center">⚡ Stats ⚡</h2>
+<div align=center>
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+</div>
+<br/><br/>
 
-Apart from coding, I have a keen interest in:
-
-- Figma web design 
-- Drawing 🖊️
-
-**😁Fun fact:😁** 
-  '''Programmer's favorite snack: "Chips," but not the edible kind!'''
-
-## Let's Connect 🔗 
-
-Looking forward to connecting with you!
+<hr/>
