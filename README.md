@@ -15,12 +15,15 @@
  🌱 I’m currently learning MEAN/MERN, Python, Frontend development, Figma, MongoDB, Backend Development
 
 💬 Ask me about anything Github:(https://github.com/shashitha18/My_Git_Profile/issues)
+
 Gmail:- shashithapitchuka19@gmail.com
 
 ⚡ Fun fact ⚡
 
+Why do developers hate nature? Cause it's full of bugs🪲!
+
  </div>
-<h3 align="center">Connect with me:</h3>
+<h3 align="center"> Connect with me </h3>
 <div align="center"> 
 <!--   <a href="mailto:shashitha95@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> -->
@@ -59,14 +62,22 @@ Gmail:- shashithapitchuka19@gmail.com
 <!-- <div align=center>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
 </div> -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=shashitha18&label=Profile%20views&color=0e75b6&style=flat" alt="shashitha18" /> </p>
+<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=shashitha18&label=Profile%20views&color=0e75b6&style=flat" alt="shashitha18" /> </p> -->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashitha18" alt="shashitha18" /></a> </p>
+<p>
+    <div align=center>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashitha18&count_private=true&theme=react&border_radius=10" alt="shashitha18" /></p>
+</div>
+
+<p>
 <br/><br/>
 
 <hr/>
-<h3 align="center">Support:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashitha18&" alt="shashitha18" /></p>
-<p>
-  <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shashitha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shashitha" /></a></p><br><br>
+<h3 align="center">😊 Support 😊</h3>
+    <div align="center">
+  <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shashitha" target='_blank'><img height='64' style='border:0px;height:64px;'  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" border='0'  alt="https://www.buymeacoffee.com/shashitha" /></a>
+    </div>
+    </p>
+<br/>
 
