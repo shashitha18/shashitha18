@@ -14,9 +14,7 @@
  
  🌱 I’m currently learning MEAN/MERN, Python, Frontend development, Figma, MongoDB, Backend Development
 
-💬 Ask me about anything Github:  https://github.com/shashitha18/My_Git_Profile/issues
-
-Gmail:- shashithapitchuka19@gmail.com
+💬 Ask me about anything [here](shashithapitchuka19@gmail.com)
 
 ⚡ Fun fact ⚡
 
