@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on Full Stack Developer
+ 🔭 I’m currently working on Full Stack Development 
  
  🌱 I’m currently learning MEAN/MERN, Python, Frontend development, Figma, MongoDB, Backend Development
 
