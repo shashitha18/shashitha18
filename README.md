@@ -17,7 +17,7 @@
 💬 Ask me about anything Github:(https://github.com/shashitha18/My_Git_Profile/issues)
 Gmail:- shashithapitchuka19@gmail.com
 
-⚡ Fun fact 
+⚡ Fun fact ⚡
 
  </div>
 <h3 align="center">Connect with me:</h3>
@@ -66,6 +66,7 @@ Gmail:- shashithapitchuka19@gmail.com
 
 <hr/>
 <h3 align="center">Support:</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashitha18&" alt="shashitha18" /></p>
 <p>
   <a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shashitha"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shashitha" /></a></p><br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashitha18&" alt="shashitha18" /></p>
+
