@@ -27,8 +27,6 @@ Why do developers hate nature? Cause it's full of bugs🪲!
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> -->
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23381099/shashitha-pitchuka19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23381099/shashitha-pitchuka19" height="30" width="40" /></a>
   </a>
-<a href="https://instagram.com/https://www.instagram.com/shashitha_19/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/shashitha_19/" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/404/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/404/" height="30" width="40" /></a>
 <a href="https://discord.gg/shashitha_19_07490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shashitha_19_07490" height="30" width="40" /></a>
 </p>
   
