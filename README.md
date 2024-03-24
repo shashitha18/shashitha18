@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning MEAN/MERN, Python, Frontend development, Figma, MongoDB, Backend Development
 
-💬 Ask me about anything [here](shashithapitchuka19@gmail.com)
+💬 Ask me about anything
 
 ⚡ Fun fact ⚡
 
@@ -23,8 +23,6 @@ Why do developers hate nature? Cause it's full of bugs🪲!
  </div>
 <h3 align="center"> Connect with me </h3>
 <div align="center"> 
-<!--   <a href="mailto:shashitha95@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> -->
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23381099/shashitha-pitchuka19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23381099/shashitha-pitchuka19" height="30" width="40" /></a>
   </a>
 <a href="https://discord.gg/shashitha_19_07490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shashitha_19_07490" height="30" width="40" /></a>
