@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shashitha+Pitchuka!;" />
 </h1>
 
-<h3 align="center">A passionate Full Stack Developer from India IN</h3>
+<h3 align="center">A passionate UI/UX Developer and Data Analyst</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on Full Stack Development 
+ 🔭 I’m currently working on Power Bi Dashboard and UI Dashboards.
  
- 🌱 I’m currently learning MEAN/MERN, Python, Frontend development, Figma, MongoDB, Backend Development
+ 🌱 I’m currently learning Figma, Python, Frontend development, Power BI, SQL, Canvas, Adobe.
 
 💬 Ask me about anything
 
